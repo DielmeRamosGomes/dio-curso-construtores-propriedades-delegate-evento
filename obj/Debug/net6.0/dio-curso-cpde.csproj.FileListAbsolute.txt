@@ -1,0 +1,15 @@
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\bin\Debug\net6.0\dio-curso-cpde.exe
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\bin\Debug\net6.0\dio-curso-cpde.deps.json
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\bin\Debug\net6.0\dio-curso-cpde.runtimeconfig.json
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\bin\Debug\net6.0\dio-curso-cpde.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\bin\Debug\net6.0\ref\dio-curso-cpde.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\bin\Debug\net6.0\dio-curso-cpde.pdb
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.csproj.AssemblyReference.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.AssemblyInfoInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.AssemblyInfo.cs
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.csproj.CoreCompileInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\ref\dio-curso-cpde.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.pdb
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-cpde\obj\Debug\net6.0\dio-curso-cpde.genruntimeconfig.cache
